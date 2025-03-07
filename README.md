@@ -1,8 +1,11 @@
-Check appropriate branches.
-Check appropriate branches where you need to find the code.
 
-Starting project
-Includes base project template for NodeJs, MongoDB, Typescript and Lint
+# MERN Stack AI Chatbot
 
-Final
-Includes final code. 
+This is an AI Chatbot application, inspired by ChatGPT, by using MERN Stack and OpenAI
+
+It's a customized chatbot where each message of the user is stored in DB and can be retrieved and deleted.
+
+It's a completely secure application using JWT Tokens, HTTP-Only Cookies, Signed Cookies, Password Encryption, and Middleware Chains.
+
+Contributions are welcome
+
